@@ -13,7 +13,6 @@ Este projeto foi desenvolvido utilizando o Knex, uma biblioteca SQL para Node.js
 1. Clone este repositório para o seu ambiente local.
 2. Instale as dependências do projeto utilizando o comando:
 2. Instale as dependências do projeto utilizando o comando:
-   
 npm install
 
 
